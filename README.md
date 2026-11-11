@@ -1,6 +1,6 @@
-# ResolveAI
+# SupportMind
 
-**ResolveAI** is a customer-support system that goes beyond answering questions: it **resolves**
+**SupportMind** is a customer-support system that goes beyond answering questions: it **resolves**
 tickets end-to-end. It combines a hybrid-retrieval RAG copilot (semantic + BM25 + cross-encoder
 reranking, with citations) with a **LangGraph resolution agent** that looks up orders, cancels them,
 processes refunds — with a human-approval gate above a configurable dollar amount, durable across a
