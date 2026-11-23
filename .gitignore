@@ -15,3 +15,15 @@ data/llm_cache.json
 logs/
 dist/
 build/
+
+.venv/
+.venv312/
+.env
+
+.env
+.env.*
+!.env.example
+.venv/
+.venv312/
+__pycache__/
+*.pyc
